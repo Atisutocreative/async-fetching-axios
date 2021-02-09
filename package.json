@@ -1,0 +1,11 @@
+{
+  "name": "fetching-example",
+  "version": "1.0.0",
+  "description": "- Hoofdoel: Je kan data ophalen van een api met axios & async / await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
