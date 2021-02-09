@@ -5,8 +5,8 @@
 - [x] NPM init
 - [x] git init
 - [x] .gitignore maken
-- [ ] Axios installeren
-- [ ] Axios script linken
+- [x] Axios installeren
+- [x] Axios script linken
 - [ ] Een async functie maken en aanroepen
 - [ ] Request maken met axios
 - [ ] "Afwachten" tot de data er is
