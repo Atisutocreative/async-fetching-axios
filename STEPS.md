@@ -10,10 +10,10 @@
 - [x] Een async functie maken en aanroepen
 - [x] Request maken met axios
 - [x] "Afwachten" tot de data er is
-- [ ] Data weergeven in de dom
+- [x] Data weergeven in de dom
   - [x] Lijst maken met een id
   - [x] Lijst selecteren
-  - [ ] Voor elke element in de array
-    - [ ] een li aanmaken
-    - [ ] textContent toevoegen
-    - [ ] li appenden
+  - [x] Voor elke element in de array
+    - [x] een li aanmaken
+    - [x] textContent toevoegen
+    - [x] li appenden
