@@ -12,6 +12,10 @@ async function displayPrizes() {
 
   for (const prize of response.data.prizes) {
     console.log("PRIZE:", prize);
+    const listItem = document.createElement("li");
+
+    listItem.textContent = `${prize.year} - ${prize.description}`;
+    console.log("LISTITEM:", listItem);
   }
 }
 
