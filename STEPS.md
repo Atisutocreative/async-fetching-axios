@@ -7,9 +7,9 @@
 - [x] .gitignore maken
 - [x] Axios installeren
 - [x] Axios script linken
-- [ ] Een async functie maken en aanroepen
-- [ ] Request maken met axios
-- [ ] "Afwachten" tot de data er is
+- [x] Een async functie maken en aanroepen
+- [x] Request maken met axios
+- [x] "Afwachten" tot de data er is
 - [ ] Data weergeven in de dom
   - [ ] Lijst maken met een id
   - [ ] Lijst selecteren
