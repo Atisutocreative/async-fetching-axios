@@ -6,7 +6,9 @@ async function displayPrizes() {
     "https://ignoble-api.herokuapp.com/prizes?year=2020"
   );
 
-  console.log("RES:", response);
+  console.log("RES:", response.data.prizes);
+  const prizeList = document.getElementById("prize-list");
+  console.log(prizeList);
 }
 
 displayPrizes();

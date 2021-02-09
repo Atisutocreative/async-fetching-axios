@@ -11,8 +11,8 @@
 - [x] Request maken met axios
 - [x] "Afwachten" tot de data er is
 - [ ] Data weergeven in de dom
-  - [ ] Lijst maken met een id
-  - [ ] Lijst selecteren
+  - [x] Lijst maken met een id
+  - [x] Lijst selecteren
   - [ ] Voor elke element in de array een li aanmaken
   - [ ] textContent toevoegen
   - [ ] li appenden
