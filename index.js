@@ -9,6 +9,10 @@ async function displayPrizes() {
   console.log("RES:", response.data.prizes);
   const prizeList = document.getElementById("prize-list");
   console.log(prizeList);
+
+  for (const prize of response.data.prizes) {
+    console.log("PRIZE:", prize);
+  }
 }
 
 displayPrizes();

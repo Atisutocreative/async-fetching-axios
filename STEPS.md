@@ -13,6 +13,7 @@
 - [ ] Data weergeven in de dom
   - [x] Lijst maken met een id
   - [x] Lijst selecteren
-  - [ ] Voor elke element in de array een li aanmaken
-  - [ ] textContent toevoegen
-  - [ ] li appenden
+  - [ ] Voor elke element in de array
+    - [ ] een li aanmaken
+    - [ ] textContent toevoegen
+    - [ ] li appenden
